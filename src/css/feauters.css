@@ -1,3 +1,29 @@
 .feauters {
-    background-color: hotpink;
+  background-color: #fff;
+}
+.features-title {
+  color: #000;
+  font-size: 24px;
+  font-weight: 700;
+  text-align: center;
+}
+.features-text {
+  color: #000;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  text-align: center;
+}
+.features-name {
+  color: #000;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.5;
+}
+.features-description {
+  color: #000;
+  font-size: 14px;
+  font-weight: 500;
 }
